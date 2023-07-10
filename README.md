@@ -1,6 +1,6 @@
 <p align="center" ><img alt="Kiny-Painel" src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png"></p>
 
-<h1 align="center">Kiny-Painel (BETA)</h1>
+<h1 align="center">extrato (BETA)</h1>
 <p align="center">
   <img alt="GitHub commit activity" src="https://img.shields.io/github/commit-activity/m/Kiny-Kiny/Kiny-Painel">
   <img alt="Latest version" src="https://img.shields.io/github/v/release/Kiny-Kiny/Kiny-Painel.svg" alt="Latest version">
@@ -32,12 +32,12 @@ Os que não estão, é porque ainda estão em desenvolvimento.
 - [x] Consulta de CNPJ
 - [x] Consulta de CPF
 - [x] Consulta de BIN
-- [ ] Consulta de Nome
+- [x] Consulta de Nome
 - [x] Consulta de Número
-- [ ] Consulta de Email
+- [x] Consulta de Email
 - [x] Consulta de Placa
 - [x] Geolocalizador de IP
-- [ ] Consulta RG
+- [x] Consulta RG
 
 
 <h2 align="center">🖥 Install</h2>
